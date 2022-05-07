@@ -12,7 +12,6 @@ I’m interested in learning HTML, CSS, Javascript, Java and Python.
 <p>
 <a href="https://wwwlinkedin.com/in/danielandrade05/">LinkedIn</a><br>
 <a href="https://github.com/danielandrade05">GitHub</a><br>
-Discord: DanielAndrade#9673
 </p>
 <!---
 danielandrade05/danielandrade05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
