@@ -10,8 +10,8 @@ I’m interested in learning HTML, CSS, Javascript, Java and Python.
  
 <h3>- 📫 How to reach me:</h3>
 <p>
-LinkedIn: https://www.linkedin.com/in/danielandrade05/<br>
-GitHub: https://github.com/danielandrade05<br>
+LinkedIn: linkedin.com/in/danielandrade05/<br>
+GitHub: github.com/danielandrade05<br>
 Discord: DanielAndrade#9673
 </p>
 <!---
