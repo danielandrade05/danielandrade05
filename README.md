@@ -2,10 +2,10 @@
 
 <h3>- About me:</h3>
 <p>
-Brazilian, Rio de Janeiro, 24 years old, Male.<br>
-Computer Science graduation student at CEFET/RJ<br>
-I'm currently finishing my Bachelor's Degree and looking for my first job.<br>
-I’m interested in learning HTML, CSS, Javascript, Java and Python.
+Brazilian, Rio de Janeiro, 26 years old, Male.<br>
+Computer Science graduate at CEFET/RJ<br>
+I just finished my Bachelor's Degree in Computer Science, and I'm currently looking for my first job.<br>
+I’m interested in learning Java, Python, HTML, CSS and Javascript.
 </p>
  
 <h3>- How to reach me:</h3>
