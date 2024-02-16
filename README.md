@@ -3,7 +3,7 @@
 <h3>- About me:</h3>
 <p>
 Brazilian, Rio de Janeiro, 26 years old, Male.<br>
-Computer Science graduate at CEFET/RJ<br>
+Computer Science graduate from CEFET/RJ<br>
 I just finished my Bachelor's Degree in Computer Science, and I'm currently looking for my first job.<br>
 I’m interested in learning Java, Python, HTML, CSS and Javascript.
 </p>
